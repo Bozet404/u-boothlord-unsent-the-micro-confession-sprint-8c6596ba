@@ -1,0 +1,14 @@
+# Compiled Python files and caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Test output scratch
+out/
+out2/
+
+# Editor and OS leftovers
+.vscode/
+.idea/
+*.swp
+.DS_Store
